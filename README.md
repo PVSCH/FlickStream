@@ -2,6 +2,10 @@
 
 FlickStream is a React-based web application that allows users to browse, search, and manage their favorite movies. It features a responsive UI, movie cards, and a favorites system for personalized movie tracking.
 
+## Live Demo
+
+Check out the live app here: (https://flickstreams.vercel.app/)
+
 ## Features
 
 - Browse popular movies with posters and descriptions
