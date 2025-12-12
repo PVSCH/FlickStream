@@ -1,20 +1,41 @@
-<<<<<<< HEAD
-# React + Vite
+# FlickStream 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FlickStream is a React-based web application that allows users to browse, search, and manage their favorite movies. It features a responsive UI, movie cards, and a favorites system for personalized movie tracking.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Browse popular movies with posters and descriptions
+- Search movies by name
+- Add or remove movies from favorites
+- Responsive design for desktop and mobile
+- Reusable components for easy scalability
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- CSS for styling
+- Context API for state management
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# FlickStream
->>>>>>> ba286c11e236c2b284299fb181e894d81ecbe071
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/PVSCH/FlickStream.git
+
+2.Install dependencies:
+npm install
+
+3.Run the app:
+ npm start
+
+# **Usage**
+
+Browse movies on the homepage
+Click the “Add to Favorites” button to save your favorite movies
+View favorites in the favorites section
+
+#Contributing
+
+Contributions are welcome!
+Please fork the repo and submit a pull request.
+ 
